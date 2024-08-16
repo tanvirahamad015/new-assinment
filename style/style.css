@@ -143,6 +143,40 @@ margin-bottom: 200px;
     margin-bottom: 20px;
     margin-top: 2px;
     }
+    .part-2{
+        width: 99%;
+        height: 400px;
+      
+    display: grid;
+     grid-template-columns: repeat(4,1fr);
     
+    }
+        
+    .img-container{
+     height: 350px;
+     width: 280px;
+     margin-left: 120px;
+     margin-top: 40px;
+    }
+    
+    .img{
+        30px:180px;
+     width: 180px;
+     
+     margin-left: 40px;
+     text-align: center;
+    }
+    .round{
+        border-radius: 50%;
+    }
+    .part-2-tittle{
+      height: 100px;
+      width:70% ;
+    padding-left: 400px;
+     margin-top: 2px;  text-align: center;
+    }
+    .part-2-tittle h1{
+        font-size: 48px;
+    }
 
 
