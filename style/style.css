@@ -350,3 +350,182 @@ border-radius: 10px;
 .f-p{
   font-size: 20px;
 margin-left: 1000px;}
+
+
+.our-benefits{
+    width: 70%;
+    height: 400px;
+    margin-left: 600px;
+    margin-top: 100px;
+    padding-left: 200px;
+}
+.our-benefits h1{
+    font-size:45px ;
+}
+
+.our-benefits h4{
+    font-size: 30px;
+}
+
+
+@media screen and (max-width: 600px){
+  
+  
+  
+    .nav-option{
+display: none;
+    }
+    .name{
+        margin-left: 10px;
+    }
+.text-container h1{
+    margin-left: 10px;
+    font-size: 40px;
+}
+.banner-container{
+    display: initial;
+}
+.text-container p{
+    font-size: 12px;
+    margin-left: 10px;
+}
+.first-btn{
+    margin-left: 10px;
+}
+.image-container{
+    margin-left: 30px;
+margin-bottom: 500px;
+}
+.card-1{
+    width:180px;
+ transform: translateY(-450px) translateX(180px);
+    }
+    .card-2{
+        width:180px;
+    transform: translateY(-350px) translateX(-10px) ;
+   }
+.logo-text p{
+    font-size: 10px;
+}
+.part-2-tittle{
+   
+margin-right: 500px;
+
+margin-bottom: 1000px;
+padding-left: 10px;
+}
+.part-2{
+   
+    margin-top: 0px;
+    display: grid;
+    grid-template-columns: repeat(1,4fr);
+}
+.part-4-bmi{
+  display: block;
+    margin-top: 100px;
+    
+    width: 400px;
+    height: 1200px;
+
+}
+.third-part{
+    
+    margin-top: 1200px;
+    margin-left: 25px;
+    height: 610px;
+
+}
+.text-3rd h1{
+    font-size: 20px;
+}
+.text-3rd p{
+font-size: 10px;
+}
+.pic{
+    width: 166px;
+    height: 112px;
+
+    transform: translateY(250px) translateX(-355px) ;
+}
+.part-4-tittle{
+   
+    padding-left: 20px;
+    width: 400px;
+}
+.part-4-tittle p{
+    font-size: 10px;
+   
+}
+.table-part{
+    margin-left: 50px;
+}
+.input-2{
+    width: 280px;
+}
+.form{
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+
+
+
+
+
+.part-5-tittle{
+    margin-top: 50px;
+  
+    margin-left:0px;
+    padding-left: 20px;
+}
+
+.img-container-5{
+    margin-top: 100px;
+   
+    margin-left: 10px;
+    grid-template-columns: repeat(1,6fr);
+    width: 400px;
+    height: 1900px;
+}
+
+.f-00{
+    display: grid;
+    grid-template-columns: repeat(1,3fr);
+}
+.f-1{
+    margin-left:10PX ;
+  
+}
+.f-1 P{
+    font-size: 10px;
+    width: 300px;
+}
+.f-2{
+    
+    margin-left:10PX ;
+    width: 300px;
+    margin-top: 10px;
+}
+
+
+.footer{
+    margin-top: 200px;
+   
+    width:400px;
+    height: 900px;
+
+}
+.our-benefits{
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.f-p{
+height: 800px;
+    width:100%;
+
+margin-left: 10px;
+        font-size: 10px;
+      margin-left: 2cm;
+   padding-right: 10px;}
+m
+}
