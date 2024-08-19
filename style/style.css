@@ -196,6 +196,9 @@ margin-bottom: 200px;
     margin-left: 60px;
     padding-top: 20px;
 }
+p{
+    color: rgba(255, 255, 255, 0.5);
+}
 .text-3rd h1{
     font-size: 45px;
 }
